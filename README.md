@@ -67,4 +67,4 @@ The dashboard is built on the **[Data Analyst Job Postings dataset](https://www.
 
 ---
 
-**Author:** [Your Name] · [LinkedIn] · [Portfolio site]
+
