@@ -2,8 +2,6 @@
 
 An interactive Power BI dashboard exploring the global job market for **Data Analyst**, **Data Engineer**, and **Data Scientist** roles — job volume, salary trends, and geographic distribution.
 
-[data job dashboard](screenshot.png)
-<!-- Add a screenshot or GIF of the dashboard here. Export a page as an image in Power BI (File > Export > Image), save it as screenshot.png in this repo, and update the path above. -->
 
 ## Overview
 
